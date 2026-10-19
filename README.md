@@ -64,7 +64,3 @@ python experiment.py run       # runs the experiment (requires an API key; resum
 
 Running new matches requires an [OpenRouter](https://openrouter.ai) API key in the environment variable
 `OPENROUTER_API_KEY`. No key is stored in this repository.
-
-## Citation
-
-If you use this code or data, please cite the article (full reference to be added after publication).
